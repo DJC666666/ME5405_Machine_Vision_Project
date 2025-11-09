@@ -1,6 +1,6 @@
 # ME5405 Machine Vision Project
 
-This repository contains coursework for ME5405, focusing on "Machine Vision" techniques. The project demonstrates essential machine vision pipelines: image preprocessing, feature extraction, segmentation, and classification. Code is mainly written in Matlab, covering binarization, thinning, connected component analysis, contour extraction, character segmentation and normalization, feature calculation (HOG & zoning), kNN classification experiments, and consistent visualization for comprehensible reporting.
+This repository contains coursework for  NUS ME5405, focusing on "Machine Vision" techniques. The project demonstrates essential machine vision pipelines: image preprocessing, feature extraction, segmentation, and classification. Code is mainly written in Matlab, covering binarization, thinning, connected component analysis, contour extraction, character segmentation and normalization, feature calculation (HOG & zoning), kNN classification experiments, and consistent visualization for comprehensible reporting.
 
 ## Directory Structure
 
@@ -55,10 +55,6 @@ cd ../img2_src; img2_main
 ## Visualization
 
 Each core step provides interactive visual windows, showing intermediate results, classification predictions, and experiment tables—ideal for teaching and reporting purposes.
-
-## Acknowledgment
-
-If you use or modify this project, please credit the original author and repository.
 
 ---
 
